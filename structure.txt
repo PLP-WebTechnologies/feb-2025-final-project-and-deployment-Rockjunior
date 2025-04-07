@@ -1,0 +1,8 @@
+/ecommerce-website
+│
+├── index.html           # Home Page
+├── shop.html            # Shop Page
+├── contact.html         # Contact Page
+├── style.css            # CSS Styles
+├── script.js            # JavaScript Functionality
+└── images/              # (Optional) Folder for images
